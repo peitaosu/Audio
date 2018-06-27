@@ -1,0 +1,3 @@
+[submodule "shntool"]
+	path = shntool
+	url = https://github.com/peitaosu/shntool.git
